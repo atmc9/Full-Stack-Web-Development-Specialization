@@ -1,0 +1,27 @@
+{
+  "name": "ConFusion",
+  "homepage": "https://github.com/atmc9/Full-Stack-Web-Development-Specialization",
+  "authors": [
+    "Anvesh Tummala"
+  ],
+  "description": "Website for an awsome restaurent",
+  "main": "index.html",
+  "keywords": [
+    "ConFusion",
+    "Fusion",
+    "Restaurent"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
